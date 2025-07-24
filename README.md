@@ -1,47 +1,47 @@
 <h1 align="center">Hey, I'm DANY</h1>
+
 <p align="center">
-  <b>CS Student | Content Creator | Graphic Designer | C Programmer</b><br>
+  <b>CS Student | Graphic Designer | C Programmer</b><br>
   <i>Creating logic-driven code & clean visuals one day at a time</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean_C_Projects-DANY--fied-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Content_Creation-Editor_%26_Designer-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clean_C_Projects-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Content_Editor-%26_Designer-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   <img src="https://img.shields.io/badge/Problem_Solver-Logical_Thinker-0e76a8?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science student at COMSATS Abbottabad with a sharp eye for logic and design. Whether it's writing modular C code or crafting digital media, I aim for simplicity, clarity, and efficiency.
+I'm a Computer Science student at COMSATS Abbottabad with a sharp eye for logic and design. Whether it's writing modular C code or crafting digital visuals, I aim for simplicity, clarity, and efficiency.
 
-- CS student @ COMSATS Abbottabad  
-- Focused on clean, modular C programming  
-- Content creator with an interest in system performance & emulator tweaking  
-- Skilled in visual design: thumbnails, banners, and layout graphics  
-- Logic-first thinker — clarity over complexity  
-- Currently exploring backend development, project automation & deployment  
+- 🎓 CS student @ COMSATS Abbottabad  
+- 🧠 Focused on clean, modular C programming  
+- 🎮 Content creator — emulator tweaking, Free Fire gameplay  
+- 🎨 Designer of thumbnails, banners, layouts  
+- 🧩 Logic-first thinker — clarity over complexity  
+- 🔧 Exploring backend development, automation, and deployment  
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=DaVinci-Resolve&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bluestacks-1D5F90?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="Bluestacks" />
 </p>
 
 ---
 
-## Projects
+## 📂 Projects
 
-- **Password Strength Checker** — Scoring system in C with menu interface and feedback
-- **Islamic Inheritance Calculator** — Based on Hamid Khan’s book, includes Awl cases and fixed share logic  
+- 🔐 **Password Strength Checker** — C project using scoring system, input validation, and clean UI.
+- 📜 **Islamic Inheritance Calculator** — Implements fixed share logic, Awl cases based on Hamid Khan’s book.
 
 ---
 
@@ -53,20 +53,22 @@ I'm a Computer Science student at COMSATS Abbottabad with a sharp eye for logic 
 </p>
 
 ---
-
-## Connect With Me
+## 🔗 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danial-ahmed-92b908376/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="35" height="35" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/un_available_ds/?hl=en">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="35" height="35" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/SAHIBZADA-DANY">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="35" height="35" />
   </a>
 </p>
 
 ---
 
-<p align="center">
-  Code smart. Design smart. Think clearly.  
-</p>
+<p align="center"><i>Code smart. Design smart. Think clearly.</i></p>
