@@ -1,53 +1,51 @@
-<h1 align="center">Hey, I'm DANY 👋</h1>
+<h1 align="center">Hey, I'm DANY</h1>
 <p align="center">
-  <b>CS Student | Semi-Pro Graphic Designer 🎨 | Gamer 🎮 | C Programmer</b><br>
-  <i>Creating logic-driven code & eye-catching visuals one day at a time</i>
+  <b>CS Student | Content Creator | Graphic Designer | C Programmer</b><br>
+  <i>Creating logic-driven code & clean visuals one day at a time</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Free%20Fire-Content%20Creator-orange?style=flat&logo=garena" />
-  <img src="https://img.shields.io/badge/Clean%20C%20Projects-DANY--fied-4b9cd3" />
-  <img src="https://img.shields.io/badge/Creative%20Minds%20Only-Florals%20by%20DANY-purple" />
-</p>
-
----
-
-## 🧠 About Me
-
-I'm a passionate Computer Science student at COMSATS Abbottabad, with a love for both logic and visuals. Whether it's coding a smart little CLI project in C or designing killer Free Fire thumbnails, I mix functionality with flair.
-
-- 🎓 CS Student @ COMSATS Abbottabad
-- 🔐 Clean & modular C programming enthusiast
-- 🎮 Free Fire content creator & emulator optimizer (Bluestacks 5 master)
-- 🎨 Designing thumbnails, banners, and Florals (hand-painted clothing)
-- 🧩 Problem-solving with pure logic — no overcomplication, just results
-- 🚀 Currently learning: backend development, project building & automation
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=Adobe-Photoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-black?style=flat&logo=DaVinci-Resolve" />
-  <img src="https://img.shields.io/badge/Bluestacks-1D5F90?style=flat" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code" />
+  <img src="https://img.shields.io/badge/Clean_C_Projects-DANY--fied-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Content_Creation-Editor_%26_Designer-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem_Solver-Logical_Thinker-0e76a8?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Projects
+## About Me
 
-- 🔐 **Password Strength Checker** – Full scoring system in C with menu and feedback.
-- 🕹️ **Pac-Man Console Clone** – DANY-fied simplified logic with basic AI & power pellet mode.
-- 🕌 **Islamic Inheritance Calculator** – Based on Hamid Khan's book, with full fixed share & Awl case logic.
-- 🎨 **Florals by DANY** – Upcoming art + fashion startup (hand-painted designs on fabric).
+I'm a Computer Science student at COMSATS Abbottabad with a sharp eye for logic and design. Whether it's writing modular C code or crafting digital media, I aim for simplicity, clarity, and efficiency.
+
+- CS student @ COMSATS Abbottabad  
+- Focused on clean, modular C programming  
+- Content creator with an interest in system performance & emulator tweaking  
+- Skilled in visual design: thumbnails, banners, and layout graphics  
+- Logic-first thinker — clarity over complexity  
+- Currently exploring backend development, project automation & deployment  
 
 ---
 
-## 📊 GitHub Stats
+## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=DaVinci-Resolve&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bluestacks-1D5F90?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## Projects
+
+- **Password Strength Checker** — Scoring system in C with menu interface and feedback
+- **Islamic Inheritance Calculator** — Based on Hamid Khan’s book, includes Awl cases and fixed share logic  
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="170" />
@@ -56,20 +54,19 @@ I'm a passionate Computer Science student at COMSATS Abbottabad, with a love for
 
 ---
 
-## 🔗 Let's Connect
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danial-ahmed-92b908376/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/un_available_ds/?hl=en">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  💻 *Code smart. Design smart. Play smart.*  
-  ✨ *– DANY*
+  Code smart. Design smart. Think clearly.  
 </p>
