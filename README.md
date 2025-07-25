@@ -13,20 +13,20 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a Computer Science student at COMSATS Abbottabad with a sharp eye for logic and design. Whether it's writing modular C code or crafting digital visuals, I aim for simplicity, clarity, and efficiency.
 
-- 🎓 CS student @ COMSATS Abbottabad  
-- 🧠 Focused on clean, modular C programming  
-- 🎮 Content creator — emulator tweaking, Free Fire gameplay  
-- 🎨 Designer of thumbnails, banners, layouts  
-- 🧩 Logic-first thinker — clarity over complexity  
-- 🔧 Exploring backend development, automation, and deployment  
+- CS student @ COMSATS Abbottabad  
+- Focused on clean, modular C programming  
+- Content creator — emulator tweaking, Free Fire gameplay  
+- Designer of thumbnails, banners, layouts  
+- Logic-first thinker — clarity over complexity  
+- Exploring backend development, automation, and deployment  
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
@@ -38,22 +38,22 @@ I'm a Computer Science student at COMSATS Abbottabad with a sharp eye for logic 
 
 ---
 
-## 📂 Projects
+##  Projects
 
-- 🔐 **Password Strength Checker** — C project using scoring system, input validation, and clean UI.
-- 📜 **Islamic Inheritance Calculator** — Implements fixed share logic, Awl cases based on Hamid Khan’s book.
+- **Password Strength Checker** — C project using scoring system, input validation, and clean UI.
+- **Islamic Inheritance Calculator** — Implements fixed share logic, Awl cases based on Hamid Khan’s book.
 
 ---
 
 ## GitHub Stats
-
+ 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="170" />
 </p>
 
 ---
-## 🔗 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/danial-ahmed-92b908376/">
