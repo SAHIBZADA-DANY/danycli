@@ -77,8 +77,15 @@ I'm a Computer Science student at COMSATS Abbottabad with a sharp eye for logic 
   <a href="https://github.com/SAHIBZADA-DANY">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="GitHub" width="35" height="35" />
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Danial_Ahmed/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="35" height="35" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/31141394/danycli">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="Stack Overflow" width="35" height="35" />
+  </a>
 </p>
-
 ---
 
 <p align="center"><i>Code smart. Design smart. Think clearly.</i></p>
