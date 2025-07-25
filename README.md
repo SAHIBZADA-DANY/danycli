@@ -46,11 +46,12 @@ I'm a Computer Science student at COMSATS Abbottabad with a sharp eye for logic 
 ---
 
 ## GitHub Stats
- 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danycli&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danycli&layout=compact&theme=radical" height="170" />
 </p>
+
 
 ---
 ##  Connect With Me
