@@ -1,4 +1,3 @@
-![download](https://github.com/user-attachments/assets/340a3381-d5ce-463c-8ee9-7426e6652e0d)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/340a3381-d5ce-463c-8ee9-7426e6652e0d" alt="DANY Coding Banner" width="700"/>
 </p>
