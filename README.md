@@ -28,7 +28,7 @@ I'm a Computer Science student at COMSATS Abbottabad with a sharp eye for logic 
 
 - CS student @ COMSATS Abbottabad  
 - Focused on clean, modular C programming  
-- Content creator — emulator tweaking, Free Fire gameplay  
+- Content creator — emulator tweaking. 
 - Designer of thumbnails, banners, layouts  
 - Logic-first thinker — clarity over complexity  
 - Exploring backend development, automation, and deployment  
