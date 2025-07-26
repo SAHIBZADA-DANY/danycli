@@ -56,10 +56,9 @@ I'm a Computer Science student at COMSATS Abbottabad with a sharp eye for logic 
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danycli&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danycli&layout=compact&theme=radical" height="170" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=danycli&show_icons=true&theme=vision-friendly-dark&border_radius=15&hide_border=false&bg_color=0d1117" width="430" alt="DANY's GitHub Stats" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danycli&layout=compact&theme=vision-friendly-dark&border_radius=15&hide_border=false&bg_color=0d1117" width="430" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=danycli&theme=tokyonight-duo&hide_border=false&border_radius=15&background=0d1117" width="430" alt="GitHub Streak" /> </p>
 
 
 ---
